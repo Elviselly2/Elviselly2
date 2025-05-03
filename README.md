@@ -8,7 +8,9 @@
   - **Email:** [elvisotieno24@gmail.com](mailto:elvisotieno24@gmail.com)  
   - **Twitter:** [@Elviselly11](https://twitter.com/Elviselly11)  
   - **LinkedIn:** [My Profile](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BeKacvg7BSj2CmSWU5RaUDA%3D%3D)  
-- ⚡ **Fun Fact:** [Insert a cool fact about yourself!]
+⚡ Fun Fact: "I respect dogs, but let's just say we have an unspoken agreement to keep our distance!"
+
+
 
 ## 🛠 Tech Stack
 - **Programming Languages:** HTML, CSS, JavaScript, Python
