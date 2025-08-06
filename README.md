@@ -15,10 +15,10 @@
 
 
 ## 🛠 Tech Stack
-- **Programming Languages:** HTML, CSS, JavaScript, Python
+- **Programming Languages:** HTML, CSS, JavaScript, Python,react ,flask
 - **Frameworks & Libraries:** React
 - **Tools:** GitHub, VS Code
-- **Database:** MySQL
+- **Database:** MySQL SQlite
 
 ## 📌 Featured Projects
 - 🔗 [Project Name](Link) - Brief description of what it does.
